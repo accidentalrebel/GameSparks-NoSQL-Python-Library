@@ -4,6 +4,9 @@ A simple python library for managing and editing NoSQL databases in GameSparks.
 
 The library makes use of GameSpark's REST API to manage data in a specified game's MongoDB databases.
 
+## Important Note
+Only "Find" and "Update" are currently implemented.
+
 ## Setting up
 Create a `.gs-auth` file and place it in your home folder.
 
